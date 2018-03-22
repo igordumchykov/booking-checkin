@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: checkin-service
+
+server:
+  port: 8070
